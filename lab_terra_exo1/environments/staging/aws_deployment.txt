@@ -1,0 +1,3 @@
+Region : eu-west-2
+Instance: 4
+CloudWatch: true

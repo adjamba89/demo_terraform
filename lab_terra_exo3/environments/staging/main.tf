@@ -1,0 +1,8 @@
+
+module "create_file" {
+ source = "../../modules/create_file"
+
+  environment = "staging"
+  owner = "equip_stag"
+}
+

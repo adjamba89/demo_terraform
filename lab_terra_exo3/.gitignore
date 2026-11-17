@@ -1,0 +1,13 @@
+
+.terraform/
+terraform.tfstate*
+
+environments/dev/.terraform
+environments/staging/.terraform
+environments/prod/.terraform
+
+environments/dev/terraform.tfstate*
+environments/staging/terraform.tfstate*
+environments/prod/terraform.tfstate*
+
+
